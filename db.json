@@ -1,0 +1,72 @@
+{
+    "Students" : [
+        {
+            "ID"   : 1,
+            "name" : "Sajib Shikder",
+            "age"  : 15,
+            "class": 9,
+            "School": "Khulna Zilla School"
+        },
+        {
+            "ID"   : 2,
+            "name" : "Rakib Ahmed",
+            "age"  : 16,
+            "class": 10,
+            "School": "Model School"
+        },
+        {
+            "ID"   : 3,
+            "name" : "Abir Sheikh",
+            "age"  : 17,
+            "class": 11,
+            "School": "Model School"
+        },
+        {
+            "ID"   : 4,
+            "name" : "Arafat Fardin",
+            "age"  : 18,
+            "class": 12,
+            "School": "Khulna Univercity"
+        },
+        {
+            "ID"   : 5,
+            "name" : "Shishir Khan",
+            "age"  : 19,
+            "class": 11,
+            "School": "Khulna Model Collage"
+        }
+    ],
+
+    "Teachers" : [
+        {
+            "name" : "Asharaful Haque",
+            "age"  : 14,
+            "Skill": "IOS Developer",
+            "Profession" : "Trainer"
+        },
+        {
+            "name" : "Jillur Rahman",
+            "age"  : 12,
+            "Skill": "Wordpress Developer",
+            "Profession" : "Entrepreneur"
+        },
+        {
+            "name" : "Sekhor Sir",
+            "age"  : 25,
+            "skill": "Math",
+            "Profession": "Teacher"
+        },
+        {
+            "name" : "Sahin Sir",
+            "age"  : 23,
+            "skill" : "English",
+            "Profession" : "Teacher"
+        },
+        {
+            "name" : "Raton Sir",
+            "age" : 60,
+            "skill": "Physics",
+            "Profession" : "Teacher"
+        }
+    ]
+}
